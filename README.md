@@ -1,0 +1,2 @@
+# 2020FullstackReview
+Self-driven learning review of industry technologies. Mainly Java w/ microservices + Spring &amp; Hibernate, Apache Tomcat &amp; Maven, SQL, HTML/CSS/JavaScript, and React + Redux w/ TypeScript. Integrations for Git, DevOps, Jenkins CI/CD Automation, and Amazon Web Services will exist in their own repositories for the sake of more functional web hooks. However, I will include a full set of notes documenting my review to make the information more accessible &amp; searchable.
